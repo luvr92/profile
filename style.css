@@ -40,8 +40,7 @@ table.center {
 }
 
 .img-circle {
-  border-radius: 50%;
-  width: 100px;
+  border-radius: 80%;
 }
 
 .list-inline {
