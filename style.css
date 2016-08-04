@@ -95,7 +95,7 @@ table.center {
     color: white;
     text-align: center;
     height: 30vh;
-    background-size: cover !important;
+    background-size: cover;
     display: flex;
     align-items: center;
     justify-content: center;
