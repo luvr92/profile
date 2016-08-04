@@ -94,7 +94,7 @@ table.center {
 .banner {
     color: white;
     text-align: center;
-    height: 30vh;
+    height: 100vh;
     background-color: blue;
     display: flex;
     align-items: center;
