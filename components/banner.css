@@ -1,8 +1,8 @@
 .banner {
-    color: white;
+    color: orange;
     text-align: center;
     height: 100vh;
-    background-color: #00bfff;
+    background-color: white;
     display: flex;
     align-items: center;
     justify-content: center;
