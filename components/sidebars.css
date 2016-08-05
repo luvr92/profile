@@ -1,0 +1,12 @@
+#sidebar {
+  box-shadow: 1px 1px 3px #999999;
+  padding: 30px;
+  background-color: white;
+  border: 0.1px solid;
+  border-radius: 1px;
+  position: fixed;
+  width: 150px;
+  left: 0;
+  top: 0;
+  bottom: 0;
+}

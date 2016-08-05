@@ -1,3 +1,11 @@
+@import url(components/avatars.css);
+@import url(components/banner.css);
+@import url(components/cards.css);
+@import url(components/links.css);
+@import url(components/lists.css);
+@import url(components/sidebars.css);
+
+
 body {
   background-color: #e8e8e8;
   font-family: monospace;
@@ -30,41 +38,6 @@ table.center {
   margin-right: auto;
 }
 
-.link-social {
-  color: #cccccc;
-  text-decoration: none;
-  line-height: 80px;
-}
-
-.link-social:hover {
-  color: red;
-}
-
-.img-circle {
-  border-radius: 80%;
-  width: 250px;
-  height: 300px;
-}
-
-.list-inline {
-  list-style: none;
-  padding-left: 0;
-}
-
-.list-inline > li {
-  padding: 0px 20px;
-}
-
-.card {
-  background-color: white;
-  border: 0.1px solid;
-  border-radius: 1px;
-  margin-top: 30px;
-  margin-bottom: 30px;
-  box-shadow: 1px 1px 3px #999999;
-  padding: 30px;
-}
-
 .container {
   width: 500px;
   margin: 0 auto;
@@ -74,43 +47,6 @@ table.center {
   padding-left: 15px;
 }
 
-#sidebar {
-  box-shadow: 1px 1px 3px #999999;
-  padding: 30px;
-  background-color: white;
-  border: 0.1px solid;
-  border-radius: 1px;
-  position: fixed;
-  width: 150px;
-  left: 0;
-  top: 0;
-  bottom: 0;
-}
-
 #page-content {
   margin-left: 200px;
-}
-
-.banner {
-    color: white;
-    text-align: center;
-    height: 100vh;
-    background-color: #00bfff;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    box-shadow: 1px 1px 3px #999999;
-}
-
-.banner h1 {
-    font-size: 50px;
-    font-weight: bold;
-    text-shadow: 0px 1px rgba(0, 0, 0, 0.2);
-}
-
-.banner p {
-    font-size: 25px;
-    font-weight: lighter;
-    color: rgba(255, 255, 255, 0.8);
-    margin-bottom: 50px;
 }

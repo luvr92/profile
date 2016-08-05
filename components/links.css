@@ -1,0 +1,9 @@
+.link-social {
+  color: #cccccc;
+  text-decoration: none;
+  line-height: 80px;
+}
+
+.link-social:hover {
+  color: red;
+}
